@@ -7,7 +7,7 @@ ORG:GovTech;
 TITLE:Director, TechTry Solutions Pvt. Ltd.\nBNI Member
 EMAIL;type=INTERNET;type=WORK;type=pref:hemant@techtry.com
 TEL;type=WORK;type=VOICE:+91 9820 527 627
-item1.ADR;type=WORK;type=pref:;;1732, 17th Floor, DLH Park,\nGoregoan\, 09-01;;;138577;Singapore
+item1.ADR;type=WORK;type=pref:;;1732, 17th Floor, DLH Park,\nGoregoan,\nMumbai-400064.
 item1.X-ABADR:sg
 item2.URL;type=pref:techtry.com
 item2.X-ABLabel:_$!<HomePage>!$_
