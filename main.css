@@ -136,6 +136,11 @@ img.profile-pic {
 	height: 8%;
 }
 
+.additional-info {
+  width: 100%;
+  height: auto;
+}
+
 .bg-color-grey {
 	background-color: #9ad3bc;
 }
