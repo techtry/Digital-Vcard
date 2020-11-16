@@ -75,7 +75,9 @@ img.profile-pic {
 
 .col.is-2 {
 	flex: none;
-	width: 20%;
+	max-width: 20%;
+	max-height: 20%;
+
 }
 
 .col.is-3 {
@@ -128,10 +130,6 @@ img.profile-pic {
 
 .primary-info {
 	height: 15%;
-}
-
-.additional-info {
-	height: 8%;
 }
 
 .secondary-info {
